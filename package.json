@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@mysten/sui.js": "^0.54.1",
+    "dotconfig": "^0.0.1-security",
+    "ethos-connect": "^0.0.194"
+  }
+}
