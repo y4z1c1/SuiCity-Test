@@ -12,7 +12,7 @@ import Modal from "./Modal"; // Import the new Modal component
 
 // Define the IPFS link for the addresses
 const ipfsLink =
-  "https://bafkreibidc7vpzc67kueyssvyf56zbk7sd2w76klrsan4yuhi7wcs2al64.ipfs.w3s.link/";
+  "https://bafkreifmxoiqncndeiqi32ettmdiqtvd6tqxzweneuj53ttyblym5xqepa.ipfs.w3s.link/";
 
 // Helper function to fetch addresses from IPFS
 const fetchAddressesFromIpfs = async (): Promise<string[]> => {
